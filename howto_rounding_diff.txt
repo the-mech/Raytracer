@@ -1,0 +1,4 @@
+rendere zwei bilder
+verwende zum runden beim ersten bild int r1 = 255*float_r;
+im zweiten int r2= 255.99*float_r;
+berechne diff = r1-r2;
